@@ -1,10 +1,11 @@
 import Ejercicios.Cuenta;
 import Ejercicios.Persona;
+import Ejercicios.Serie;
 
 public class Main {
     public static void main(String[] args) {
 
-        // Ejercicio nro 1
+        //Exercise number 1
         Cuenta cuenta1 = new Cuenta("Santiago", 155493.4 );
 
         cuenta1.ingresar(7, cuenta1.getCantidad());
@@ -14,7 +15,7 @@ public class Main {
         cuenta1.retirar(5000, cuenta1.getCantidad());
         System.out.println("la nueva cantidad actual es " + cuenta1.getCantidad());
 
-        // Ejercicio nro 2
+        //Exercise number 2
 
         Persona santi = new Persona("Santiago", 30, 70.1, 1.73);
 
@@ -26,7 +27,15 @@ public class Main {
 
         System.out.println("el DNI es: " + santi.getDNI());
 
-        //Ejercicio nro 3
+        //Exercise number 3
+
+        Serie friends = new Serie("Friends", "Ni-idea");
+        Serie juegoDeTronos = new Serie();
+        Serie theWolkingDead = new Serie("The Wolking Dead", 10, "Fantasóa", "Ni-idea");
+
+
+        // Exercise number 4
+
 
 
 
