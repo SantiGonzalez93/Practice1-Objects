@@ -42,7 +42,7 @@ public class Cuenta {
 
         if (retiro <= cantidad){
 
-            this.cantidad = cantidad - retiro;
+            this.cantidad = (cantidad - retiro);
 
         } else {
             this.cantidad = 0;
