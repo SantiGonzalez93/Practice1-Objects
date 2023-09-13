@@ -1,6 +1,4 @@
-import Ejercicios.Cuenta;
-import Ejercicios.Persona;
-import Ejercicios.Serie;
+import Ejercicios.*;
 
 public class Main {
     public static void main(String[] args) {
@@ -35,9 +33,14 @@ public class Main {
 
 
         // Exercise number 4
+        Videojuego callofduty = new Videojuego();
 
+        // Exercise number 5
+        // String nombre, String autor, int cantidad
+        Libros elNombreDelViento = new Libros("El nombre del viento", "Patrick Rotfus", 37 );
 
-
+        elNombreDelViento.prestamo();
+        System.out.println(elNombreDelViento.devolucion());
 
     }
 }
