@@ -76,12 +76,9 @@ public class Persona {
         }
         return comparador;
     }
+
     public boolean esMayorDeEdad (int edad) {
-        boolean result = false;
-        if (edad >= 18) {
-            result = true;
-        }
-        return result;
+        return edad >= 18;
     }
 
     private int generaDNI(){

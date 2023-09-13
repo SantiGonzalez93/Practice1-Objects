@@ -15,7 +15,7 @@ public class Main {
 
         //Exercise number 2
 
-        Persona santi = new Persona("Santiago", 30, 70.1, 1.73);
+        Persona santi = new Persona("Santiago", 17, 70.1, 1.73);
 
         int resuesta = santi.calcularIMC(santi.getPeso(), santi.getAltura());
 

@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fcb9a0c-7bf9-492d-aafb-9c92b2ad53f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/Libros.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ejercicios/Videojuego.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicios/Videojuego.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicios/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicios/Persona.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +37,8 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sgonzalez/Personales Santiago/Cursos/Desarrollo de Software/1er Año/Programacion 1/Practica1-Objetos&quot;
   }
 }</component>
   <component name="RunManager">
